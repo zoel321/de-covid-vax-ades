@@ -3,6 +3,8 @@ import dash_bootstrap_components as dbc
 import plotly.express as px
 import pandas as pd
 
+#reference for template: https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-aix360-heart
+
 #start app
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
