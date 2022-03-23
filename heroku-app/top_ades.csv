@@ -1,0 +1,231 @@
+,vax_manu,vax_dose_series,cleaned_symptoms,symptom_count,row
+0,MODERNA,3,expired product administered,3622,1
+1,MODERNA,3, pyrexia,3118,2
+2,MODERNA,3, pain,2612,3
+3,MODERNA,3, headache,2592,4
+4,MODERNA,3, fatigue,2189,5
+5,MODERNA,3, urticaria,1918,6
+6,MODERNA,3, pain in extremity,1700,7
+7,MODERNA,3, nausea,1602,8
+8,MODERNA,3, pruritus,1559,9
+9,MODERNA,3,chills,1324,10
+10,JANSSEN,4, interchange of vaccine products,5,1
+11,JANSSEN,4,dizziness,4,2
+12,JANSSEN,4, extra dose administered,4,3
+13,JANSSEN,4, syncope,4,4
+14,JANSSEN,4, injection site pain,2,5
+15,JANSSEN,4, nausea,2,6
+16,JANSSEN,4, pain,2,7
+17,JANSSEN,4, tremor,2,8
+18,JANSSEN,4, loss of consciousness,2,9
+19,JANSSEN,4, headache,2,10
+20,PFIZER\BIONTECH,5+,extra dose administered,17,1
+21,PFIZER\BIONTECH,5+, pain in extremity,11,2
+22,PFIZER\BIONTECH,5+, dizziness,11,3
+23,PFIZER\BIONTECH,5+, headache,11,4
+24,PFIZER\BIONTECH,5+, nausea,11,5
+25,PFIZER\BIONTECH,5+,dizziness,11,6
+26,PFIZER\BIONTECH,5+, syncope,10,7
+27,PFIZER\BIONTECH,5+, pyrexia,10,8
+28,PFIZER\BIONTECH,5+, dyspnoea,9,9
+29,PFIZER\BIONTECH,5+, hyperhidrosis,9,10
+30,JANSSEN,UNK, pyrexia,5301,1
+31,JANSSEN,UNK, headache,5170,2
+32,JANSSEN,UNK, pain,3924,3
+33,JANSSEN,UNK, fatigue,3124,4
+34,JANSSEN,UNK, nausea,2619,5
+35,JANSSEN,UNK,chills,2485,6
+36,JANSSEN,UNK, pain in extremity,2388,7
+37,JANSSEN,UNK, chills,1787,8
+38,JANSSEN,UNK, dizziness,1459,9
+39,JANSSEN,UNK, myalgia,1407,10
+40,UNKNOWN MANUFACTURER,3, dyspnoea,7,1
+41,UNKNOWN MANUFACTURER,3, pyrexia,3,2
+42,UNKNOWN MANUFACTURER,3, cough,3,3
+43,UNKNOWN MANUFACTURER,3, computerised tomogram thorax abnormal,3,4
+44,UNKNOWN MANUFACTURER,3, laboratory test,2,5
+45,UNKNOWN MANUFACTURER,3, chills,2,6
+46,UNKNOWN MANUFACTURER,3, chest x-ray normal,2,7
+47,UNKNOWN MANUFACTURER,3,chest x-ray normal,2,8
+48,UNKNOWN MANUFACTURER,3,acute myocardial infarction,2,9
+49,UNKNOWN MANUFACTURER,3, pain,2,10
+50,UNKNOWN MANUFACTURER,1, headache,139,1
+51,UNKNOWN MANUFACTURER,1, pyrexia,134,2
+52,UNKNOWN MANUFACTURER,1, fatigue,93,3
+53,UNKNOWN MANUFACTURER,1, pain,87,4
+54,UNKNOWN MANUFACTURER,1, nausea,70,5
+55,UNKNOWN MANUFACTURER,1,chills,69,6
+56,UNKNOWN MANUFACTURER,1, pain in extremity,48,7
+57,UNKNOWN MANUFACTURER,1, dizziness,48,8
+58,UNKNOWN MANUFACTURER,1, myalgia,42,9
+59,UNKNOWN MANUFACTURER,1, chills,39,10
+60,MODERNA,2, pyrexia,20446,1
+61,MODERNA,2, headache,17404,2
+62,MODERNA,2, pain,16068,3
+63,MODERNA,2, fatigue,13822,4
+64,MODERNA,2, nausea,10431,5
+65,MODERNA,2,chills,10413,6
+66,MODERNA,2, pain in extremity,8706,7
+67,MODERNA,2, chills,7382,8
+68,MODERNA,2, myalgia,6858,9
+69,MODERNA,2,arthralgia,6010,10
+70,JANSSEN,1, headache,8433,1
+71,JANSSEN,1, pyrexia,7678,2
+72,JANSSEN,1, pain,6548,3
+73,JANSSEN,1, fatigue,5584,4
+74,JANSSEN,1, nausea,5116,5
+75,JANSSEN,1,chills,3878,6
+76,JANSSEN,1, dizziness,3448,7
+77,JANSSEN,1, pain in extremity,3407,8
+78,JANSSEN,1, chills,3013,9
+79,JANSSEN,1, dyspnoea,2746,10
+80,UNKNOWN MANUFACTURER,5+, impaired work ability,1,1
+81,UNKNOWN MANUFACTURER,5+, discomfort,1,2
+82,UNKNOWN MANUFACTURER,5+,pulmonary embolism,1,3
+83,UNKNOWN MANUFACTURER,5+, sars-cov-2 test negative,1,4
+84,UNKNOWN MANUFACTURER,5+, headache,1,5
+85,UNKNOWN MANUFACTURER,5+, feeling abnormal,1,6
+86,UNKNOWN MANUFACTURER,5+,chest x-ray normal,1,7
+87,UNKNOWN MANUFACTURER,5+, chills,1,8
+88,UNKNOWN MANUFACTURER,5+, ,1,9
+89,UNKNOWN MANUFACTURER,5+, cough,1,10
+90,JANSSEN,5+, headache,21,1
+91,JANSSEN,5+, pain,8,2
+92,JANSSEN,5+,dizziness,8,3
+93,JANSSEN,5+, syncope,8,4
+94,JANSSEN,5+, nausea,7,5
+95,JANSSEN,5+, dyspnoea,7,6
+96,JANSSEN,5+, fatigue,6,7
+97,JANSSEN,5+, pyrexia,6,8
+98,JANSSEN,5+, vomiting,5,9
+99,JANSSEN,5+, epistaxis,5,10
+100,MODERNA,4,extra dose administered,166,1
+101,MODERNA,4, no adverse event,51,2
+102,MODERNA,4,incorrect dose administered,48,3
+103,MODERNA,4,inappropriate schedule of product administration,23,4
+104,MODERNA,4, interchange of vaccine products,20,5
+105,MODERNA,4, pyrexia,18,6
+106,MODERNA,4, extra dose administered,17,7
+107,MODERNA,4, headache,14,8
+108,MODERNA,4, inappropriate schedule of product administration,13,9
+109,MODERNA,4, pain,12,10
+110,PFIZER\BIONTECH,1, headache,21858,1
+111,PFIZER\BIONTECH,1, fatigue,17753,2
+112,PFIZER\BIONTECH,1, pyrexia,15764,3
+113,PFIZER\BIONTECH,1, pain,15755,4
+114,PFIZER\BIONTECH,1, nausea,15458,5
+115,PFIZER\BIONTECH,1, pain in extremity,13507,6
+116,PFIZER\BIONTECH,1, dizziness,11838,7
+117,PFIZER\BIONTECH,1, dyspnoea,10877,8
+118,PFIZER\BIONTECH,1, sars-cov-2 test positive,10780,9
+119,PFIZER\BIONTECH,1,dizziness,10084,10
+120,PFIZER\BIONTECH,UNK, headache,5713,1
+121,PFIZER\BIONTECH,UNK, pyrexia,5248,2
+122,PFIZER\BIONTECH,UNK, pain,4612,3
+123,PFIZER\BIONTECH,UNK, fatigue,4399,4
+124,PFIZER\BIONTECH,UNK, nausea,3599,5
+125,PFIZER\BIONTECH,UNK, pain in extremity,2930,6
+126,PFIZER\BIONTECH,UNK, sars-cov-2 test positive,2807,7
+127,PFIZER\BIONTECH,UNK,covid-19,2686,8
+128,PFIZER\BIONTECH,UNK,product storage error,2564,9
+129,PFIZER\BIONTECH,UNK,chills,2540,10
+130,MODERNA,1, headache,25356,1
+131,MODERNA,1, pyrexia,24286,2
+132,MODERNA,1, fatigue,20458,3
+133,MODERNA,1, pain,18943,4
+134,MODERNA,1, pain in extremity,18891,5
+135,MODERNA,1, nausea,16776,6
+136,MODERNA,1, myalgia,12007,7
+137,MODERNA,1, injection site pain,11926,8
+138,MODERNA,1, injection site swelling,11514,9
+139,MODERNA,1,chills,11311,10
+140,PFIZER\BIONTECH,3, pyrexia,3574,1
+141,PFIZER\BIONTECH,3, pain,3357,2
+142,PFIZER\BIONTECH,3, headache,3259,3
+143,PFIZER\BIONTECH,3, fatigue,2872,4
+144,PFIZER\BIONTECH,3, immunisation,2393,5
+145,PFIZER\BIONTECH,3, pain in extremity,2198,6
+146,PFIZER\BIONTECH,3, nausea,1936,7
+147,PFIZER\BIONTECH,3,product storage error,1660,8
+148,PFIZER\BIONTECH,3, lymphadenopathy,1626,9
+149,PFIZER\BIONTECH,3,extra dose administered,1513,10
+150,UNKNOWN MANUFACTURER,UNK, pyrexia,119,1
+151,UNKNOWN MANUFACTURER,UNK,covid-19,118,2
+152,UNKNOWN MANUFACTURER,UNK, pain,110,3
+153,UNKNOWN MANUFACTURER,UNK, headache,106,4
+154,UNKNOWN MANUFACTURER,UNK, sars-cov-2 test positive,69,5
+155,UNKNOWN MANUFACTURER,UNK, nausea,68,6
+156,UNKNOWN MANUFACTURER,UNK, fatigue,65,7
+157,UNKNOWN MANUFACTURER,UNK,chills,52,8
+158,UNKNOWN MANUFACTURER,UNK, chills,46,9
+159,UNKNOWN MANUFACTURER,UNK, dyspnoea,45,10
+160,PFIZER\BIONTECH,2, pyrexia,21184,1
+161,PFIZER\BIONTECH,2, headache,20377,2
+162,PFIZER\BIONTECH,2, pain,18254,3
+163,PFIZER\BIONTECH,2, fatigue,16017,4
+164,PFIZER\BIONTECH,2, nausea,11997,5
+165,PFIZER\BIONTECH,2, pain in extremity,9687,6
+166,PFIZER\BIONTECH,2,chills,9264,7
+167,PFIZER\BIONTECH,2, chills,8491,8
+168,PFIZER\BIONTECH,2, myalgia,7627,9
+169,PFIZER\BIONTECH,2,arthralgia,7531,10
+170,MODERNA,5+,expired product administered,70,1
+171,MODERNA,5+, no adverse event,65,2
+172,MODERNA,5+, headache,33,3
+173,MODERNA,5+, pyrexia,32,4
+174,MODERNA,5+, nausea,32,5
+175,MODERNA,5+, pain,30,6
+176,MODERNA,5+, fatigue,29,7
+177,MODERNA,5+,no adverse event,22,8
+178,MODERNA,5+, product administration error,19,9
+179,MODERNA,5+,chills,19,10
+180,JANSSEN,2, headache,152,1
+181,JANSSEN,2, pain,122,2
+182,JANSSEN,2, pyrexia,119,3
+183,JANSSEN,2, fatigue,95,4
+184,JANSSEN,2, pain in extremity,93,5
+185,JANSSEN,2, nausea,78,6
+186,JANSSEN,2, underdose,76,7
+187,JANSSEN,2, sars-cov-2 test positive,72,8
+188,JANSSEN,2,covid-19,72,9
+189,JANSSEN,2,off label use,67,10
+190,PFIZER\BIONTECH,4,extra dose administered,196,1
+191,PFIZER\BIONTECH,4, no adverse event,71,2
+192,PFIZER\BIONTECH,4, wrong product administered,33,3
+193,PFIZER\BIONTECH,4,inappropriate schedule of product administration,30,4
+194,PFIZER\BIONTECH,4, interchange of vaccine products,23,5
+195,PFIZER\BIONTECH,4, headache,21,6
+196,PFIZER\BIONTECH,4, fatigue,15,7
+197,PFIZER\BIONTECH,4, pain,13,8
+198,PFIZER\BIONTECH,4, inappropriate schedule of product administration,12,9
+199,PFIZER\BIONTECH,4, extra dose administered,12,10
+200,MODERNA,UNK, pyrexia,6004,1
+201,MODERNA,UNK, headache,5633,2
+202,MODERNA,UNK, pain,4928,3
+203,MODERNA,UNK, fatigue,4211,4
+204,MODERNA,UNK, nausea,3485,5
+205,MODERNA,UNK,chills,3284,6
+206,MODERNA,UNK, pain in extremity,3152,7
+207,MODERNA,UNK,expired product administered,2788,8
+208,MODERNA,UNK, injection site pain,2537,9
+209,MODERNA,UNK, injection site swelling,2420,10
+210,JANSSEN,3,underdose,36,1
+211,JANSSEN,3,extra dose administered,27,2
+212,JANSSEN,3, interchange of vaccine products,26,3
+213,JANSSEN,3, pyrexia,26,4
+214,JANSSEN,3, headache,23,5
+215,JANSSEN,3, fatigue,21,6
+216,JANSSEN,3,incorrect dose administered,17,7
+217,JANSSEN,3,interchange of vaccine products,16,8
+218,JANSSEN,3, no adverse event,16,9
+219,JANSSEN,3, dyspnoea,15,10
+220,UNKNOWN MANUFACTURER,2, pyrexia,33,1
+221,UNKNOWN MANUFACTURER,2, dyspnoea,22,2
+222,UNKNOWN MANUFACTURER,2, headache,19,3
+223,UNKNOWN MANUFACTURER,2, nausea,17,4
+224,UNKNOWN MANUFACTURER,2, pain,16,5
+225,UNKNOWN MANUFACTURER,2, rash,14,6
+226,UNKNOWN MANUFACTURER,2, sars-cov-2 test positive,13,7
+227,UNKNOWN MANUFACTURER,2, vomiting,12,8
+228,UNKNOWN MANUFACTURER,2, fatigue,11,9
+229,UNKNOWN MANUFACTURER,2,covid-19,11,10
